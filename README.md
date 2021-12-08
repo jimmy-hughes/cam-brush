@@ -1,5 +1,5 @@
 <h1 align="center">Cam Brush</h1>
-<h3 align="center">The 3D Painting Tool</h3>
+<h3 align="center">The Webcam 3D Painting Tool</h3>
 
 Cam Brush allows the user to paint in 3D space, much like Tilt Brush, by using their webcam and a spherical object such 
 as a lollipop. In order to run this program the user must calibrate it to their webcam and object according to the 
